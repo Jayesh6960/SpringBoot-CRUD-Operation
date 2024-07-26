@@ -1,12 +1,15 @@
+<h1>Spring Boot CRUD Application</h1>
+
 This repository demonstrates a basic CRUD (Create, Read, Update, Delete) application using Spring Boot, Spring Data JPA, Spring Web, and MySQL. The application provides RESTful APIs to manage "Employee" records in a MySQL database.
 
-Features
-Spring Boot: Simplifies the development of production-ready applications.
+<h3>Features:</h3>
 
-Spring Data JPA: Eases database interactions and data access.
+Spring Boot:- Simplifies the development of production-ready applications.
 
-Spring Web: Facilitates the creation of RESTful web services.
+Spring Data JPA:-  Eases database interactions and data access.
 
-MySQL: Relational database for storing employee data.
+Spring Web:- Facilitates the creation of RESTful web services.
 
-CRUD Operations: Create, Read, Update, Delete functionalities for "Employee" entities
+MySQL Driver:- Relational database for storing employee data.
+
+CRUD Operations:- Create, Read, Update, Delete functionalities for "Employee" entities
